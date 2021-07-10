@@ -11,7 +11,7 @@ Crear commit con su mensaje
 git commit -m "Aqui va el mensaje"
 
 Agregar remoto "Solo la primera vez"
-git remote add origin 
+git remote add origin https://github.com/Ruagdo/Santander-FRONT-BEDU.git
 
 Enviar commits al servidor de GitHub
 git push -u origin master
